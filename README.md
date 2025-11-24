@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Niraj</h1>
+<h1 align="center">Hi 👋, I'm Ishwar Tilkari</h1>
 <h3 align="center">MERN Stack Developer | Full-Stack Engineer | React • Node.js • MongoDB</h3>
 
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **MERN Stack Projects**  
-- 🌱 Learning **Advanced React, System Design & DevOps**  
-- 👨‍💻 All of my projects are available at:  
-  👉 **https://github.com/your-username**  
-- 📫 How to reach me: **your-email@gmail.com**  
-- ⚡ Fun fact: I debug faster with coffee ☕  
+- 🔭 I’m currently working on **MERN Stack Projects**    
+- 📫 How to reach me: **ishwartilkari01@gmail.com**  
+
 
 ---
 
@@ -53,10 +50,6 @@
 
 ---
 
-### 📌 Featured Projects  
-- 🚀 **Your MERN Project 1** – short description  
-- 🔐 **Auth System with JWT** – login/signup system  
-- 📊 **Dashboard App** – React + Node analytics  
 
 ---
 
